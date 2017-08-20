@@ -1,6 +1,4 @@
 ---
-layout: default
-permalink: /cv/
 ---
 
 ## CV
