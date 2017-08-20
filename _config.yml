@@ -19,7 +19,7 @@ style:
 links:
   - github: {url: "https://github.com/abuxolugo/", square: true}
   - twitter: {url: "https://twitter.com/abuxolugo/", square: true}
-  - <i class="ai ai-google-scholar-square ai-3x"></i> #{url: "https://scholar.google.com/citations?user=0BVBMXMAAAAJ&hl=en&oi=ao"}
+  - google-plus: {url: "https://scholar.google.com/citations?user=0BVBMXMAAAAJ&hl=en&oi=ao", square: true}
   - envelope: {url: "mailto:abuxolug@ur.rochester.edu", square: true}
 
 
