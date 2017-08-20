@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-This is me trying a bunch of stuff.
+office: 303B Meliora Hall, University of Rochester
+
+email: abuxolug@ur.rochester.edu
+github: github.com/abuxolugo
+twitter: twitter.com/abuxolugo
