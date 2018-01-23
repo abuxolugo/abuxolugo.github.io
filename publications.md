@@ -14,7 +14,7 @@ Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015).  Using game-based approa
 
 ## Conference Presentations
 
-Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (2017, March).  Listener adaptation to prosodic cues to syntax.  Poster presented at CUNY 2017: Conference on Human Sentence Processing, Boston, MA. [pdf]({{site.baseurl}}/assets/CUNYBoundaryAdaptation.pdf)
+Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (2017, March).  Listener adaptation to prosodic cues to syntax.  Poster presented at CUNY 2017: Conference on Human Sentence Processing, Boston, MA. [pdf]({{site.baseurl}}/assets/CUNYBoundaryAdaptationABL.pdf)
 
 Buxó-Lugo, A. & Watson, D. G. (2015, May).  Top-down processing of intonational boundaries.  Talk presented at Experimental and Theoretical Advances in Prosody, Champaign, IL. 
 
