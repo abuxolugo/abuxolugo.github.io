@@ -14,15 +14,15 @@ Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015).  Using game-based approa
 
 ## Conference Presentations
 
-Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (2017, March).  Listener adaptation to prosodic cues to syntax.  Poster presented at CUNY 2017: Conference on Human Sentence Processing, Boston, MA. [pdf]({{site.baseurl}}/assets/CUNYBoundaryAdaptationABL.pdf)
+Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (2017, March).  Listener adaptation to prosodic cues to syntax.  Poster presented at CUNY 2017: Conference on Human Sentence Processing, Boston, MA. [[pdf]]({{site.baseurl}}/assets/CUNYBoundaryAdaptationABL.pdf)
 
 Buxó-Lugo, A. & Watson, D. G. (2015, May).  Top-down processing of intonational boundaries.  Talk presented at Experimental and Theoretical Advances in Prosody, Champaign, IL. 
 
-Buxó-Lugo, A. & Watson, D. G. (2015, March).  Top-down processing of intonational boundaries.  Poster presented at CUNY 2015: Conference on Human Sentence Processing, Los Angeles, CA. [pdf]({{site.baseurl}}/assets/TopDownBoundary_poster.pdf)
+Buxó-Lugo, A. & Watson, D. G. (2015, March).  Top-down processing of intonational boundaries.  Poster presented at CUNY 2015: Conference on Human Sentence Processing, Los Angeles, CA. [[pdf]]({{site.baseurl}}/assets/TopDownBoundary_poster.pdf)
 
 Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2013, March).  Task effects on prosodic prominence.  Talk presented at CUNY 2013: Conference on Human Sentence Processing, Columbia, SC.
 
-Buxó-Lugo, A., Simmons, D. C., & Watson, D. G. (2013, March).  Modeling word duration in language production.  Poster presented at CUNY 2013: Conference on Human Sentence Processing, Columbia, SC. [pdf]({{site.baseurl}}/assets/SRN_CUNY_poster.pdf)
+Buxó-Lugo, A., Simmons, D. C., & Watson, D. G. (2013, March).  Modeling word duration in language production.  Poster presented at CUNY 2013: Conference on Human Sentence Processing, Columbia, SC. [[pdf]]({{site.baseurl}}/assets/SRN_CUNY_poster.pdf)
 
 Buxó-Lugo, A. & Watson, D. G. (2012, September).  The effects of intonational phrase boundaries on prominence.  Poster presented at Architectures and Mechanisms of Language Processing 2012, Riva del Garda, Italy. 
 
