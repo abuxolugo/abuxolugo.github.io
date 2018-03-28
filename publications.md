@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (in press). Effects of participant engagement on prosodic prominence. *Discourse Processes.*
+Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2016). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323.
 
 Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13.
 
