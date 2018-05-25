@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2016). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323.
+Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323.
 
 Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13.
 
@@ -36,9 +36,11 @@ Buxó-Lugo, A. & Watson, D. G. (2012, September). The effects of intonational ph
 
 ## Other Presentations
 
+Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, May). Adaptation in question-statement prosody processing. Invited talk, multi-lab psycholinguistic workshop, University of Toronto.
+
 Buxó-Lugo, A. (2017, March). Interactivity and adaptation in intonational boundary processing. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. (2017, February).  Expectations and adaptation in prosody.  Invited talk, Department of Brain and Cognitive Sciences, University of Rochester.
+Buxó-Lugo, A. (2017, February).  Expectations and adaptation in prosody. Invited talk, Department of Brain and Cognitive Sciences, University of Rochester.
 
 Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2016, November). What’s a competitor? Language Processing talk series, University of Illinois at Urbana-Champaign.
 
