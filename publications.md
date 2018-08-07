@@ -8,7 +8,7 @@ Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant e
 
 Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13. DOI:[10.1016/j.jml.2016.03.001](https://doi.org/10.1016/j.jml.2016.03.001) [[preprint]]({{site.baseurl}}/assets/Syntax_and_Prosodic_Parsing_Preprint.pdf)
 
-Watson, D. G., Buxó-Lugo, A., & Simmons, D. C. (2015). The effect of phonological encoding on word duration: Selection takes time.  In E. Gibson and L. Frazier, *Explicit and Implicit Prosody in Sentence Processing* (pp. 85-98). Switzerland: Springer International Publishing. [[preprint]]({{site.baseurl}}/assets/Phonological_Encoding_Preprint.pdf)
+Watson, D. G., Buxó-Lugo, A., & Simmons, D. C. (2015). The effect of phonological encoding on word duration: Selection takes time.  In E. Gibson and L. Frazier, *Explicit and Implicit Prosody in Sentence Processing* (pp. 85-98). Switzerland: Springer International Publishing. DOI:[10.1007/978-3-319-12961-7_5](https://doi.org/10.1007/978-3-319-12961-7_5) [[preprint]]({{site.baseurl}}/assets/Phonological_Encoding_Preprint.pdf)
 
 Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approaches to increase level of engagement in research and education. In S. Dikkers (Ed.), *TeacherCraft: Using Minecraft for Teaching and Learning* (pp. 139-151). Pittsburgh: ETC Press.
 
