@@ -4,13 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323.
+Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323. [[preprint]]({{site.baseurl}}/assets/Minecraft_Preprint.pdf)
 
-Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13.
+Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13. [[preprint]]({{site.baseurl}}/assets/Syntax_and_Prosodic_Parsing_Preprint.pdf)
 
-Watson, D. G., Buxó-Lugo, A., & Simmons, D. C. (2015). The effect of phonological encoding on word duration: Selection takes time.  In E. Gibson and L. Frazier, *Explicit and Implicit Prosody in Sentence Processing.*
+Watson, D. G., Buxó-Lugo, A., & Simmons, D. C. (2015). The effect of phonological encoding on word duration: Selection takes time.  In E. Gibson and L. Frazier, *Explicit and Implicit Prosody in Sentence Processing* (pp. 85-98). Switzerland: Springer International Publishing. [[preprint]]({{site.baseurl}}/assets/Phonological_Encoding_Preprint.pdf)
 
-Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approaches to increase level of engagement in research and education. In S. Dikkers (Ed.), *TeacherCraft: Using Minecraft for Teaching and Learning.* Pittsburgh: ETC Press.
+Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approaches to increase level of engagement in research and education. In S. Dikkers (Ed.), *TeacherCraft: Using Minecraft for Teaching and Learning* (pp. 139-151). Pittsburgh: ETC Press.
 
 ## Publications in Progress
 
