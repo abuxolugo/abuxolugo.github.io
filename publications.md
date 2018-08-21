@@ -16,7 +16,7 @@ Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approac
 
 Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (under review). Variability and adaptation in prosody-based syntactic comprehension.
 
-Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (under review). The world is not enough to explain contrastive accenting.
+Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (under review). The world is not enough to explain contrastive accenting. [[OSF]](https://osf.io/ef5wu/)
 
 ## Conference Presentations
 
