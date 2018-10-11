@@ -20,6 +20,8 @@ Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (under review). The world is not 
 
 ## Conference Presentations
 
+Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, October). Accommodating variations in pragmatic interpretation of intonation contours. Poster presented at Experimental and Theoretical Advances in Prosody, Amherst, MA. [[pdf]]({{site.baseurl}}/assets/ETAP_Poster_QS_Adaptation.pdf)
+
 Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2018, March). Hear no evil or speak no evil: Lengthening of phonological competitors. Talk presented at CUNY 2018: Conference on Human Sentence Processing, Davis, CA.
 
 Buxó-Lugo, A., Kurumada, C., & Watson, D. G. (2017, March). Listener adaptation to prosodic cues to syntax. Poster presented at CUNY 2017: Conference on Human Sentence Processing, Boston, MA. [[pdf]]({{site.baseurl}}/assets/CUNYBoundaryAdaptationABL.pdf)
