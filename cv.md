@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-You can find a pdf version of my CV [here]({{site.baseurl}}/assets/ABL_CV.pdf) (last updated 10/14/2018).
+You can find a pdf version of my CV [here]({{site.baseurl}}/assets/ABL_CV.pdf) (last updated 10/27/2018).
