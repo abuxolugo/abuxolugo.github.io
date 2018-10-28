@@ -38,13 +38,13 @@ Buxó-Lugo, A. & Watson, D. G. (2012, September). The effects of intonational ph
 
 ## Other Presentations
 
-Buxó-Lugo, A. (2018, October). Adaptation in the interpretation of question-statement prosody. Invited talk, CUNY Graduate Center.
+Buxó-Lugo, A. (2018, October). Adaptation in the interpretation of question-statement prosody. Invited talk, Computational Linguistics Reading Group, City University of New York (CUNY) Graduate Center.
 
 Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, May). Adaptation in question-statement prosody processing. Invited talk, multi-lab psycholinguistics workshop, University of Toronto.
 
 Buxó-Lugo, A. (2017, March). Interactivity and adaptation in intonational boundary processing. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. (2017, February).  Expectations and adaptation in prosody. Invited talk, Department of Brain and Cognitive Sciences, University of Rochester.
+Buxó-Lugo, A. (2017, February).  Expectations and adaptation in prosody. Invited talk, Language Science That Caught Our Ear talk series, Department of Brain and Cognitive Sciences, University of Rochester.
 
 Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2016, November). What’s a competitor? Language Processing talk series, University of Illinois at Urbana-Champaign.
 
