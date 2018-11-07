@@ -38,25 +38,27 @@ Buxó-Lugo, A. & Watson, D. G. (2012, September). The effects of intonational ph
 
 ## Other Presentations
 
+Buxó-Lugo, A. (2018, November). Testing listener flexibility in question-statement prosody interpretation. Invited talk, Cognitive Brown Bag series, Psychological and Brain Sciences, Villanova University.
+
 Buxó-Lugo, A. (2018, October). Adaptation in the interpretation of question-statement prosody. Invited talk, Computational Linguistics Reading Group, City University of New York (CUNY) Graduate Center.
 
 Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, May). Adaptation in question-statement prosody processing. Invited talk, multi-lab psycholinguistics workshop, University of Toronto.
 
-Buxó-Lugo, A. (2017, March). Interactivity and adaptation in intonational boundary processing. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A. (2017, March). Interactivity and adaptation in intonational boundary processing. Cognitive Brown Bag series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
 Buxó-Lugo, A. (2017, February).  Expectations and adaptation in prosody. Invited talk, Language Science That Caught Our Ear talk series, Department of Brain and Cognitive Sciences, University of Rochester.
 
-Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2016, November). What’s a competitor? Language Processing talk series, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2016, November). What’s a competitor? Language Processing Brown Bag series, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. & Watson, D. G. (2016, April). Influence of syntax on prosodic parsing. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A. & Watson, D. G. (2016, April). Influence of syntax on prosodic parsing. Cognitive Brown Bag series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
 Buxó-Lugo, A. & Watson, D. G. (2016, February). Evidence for the influence of syntax on prosodic parsing. Linguistics Department Seminar, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. & Watson, D. G. (2015, November). Influence of syntax on prosodic parsing. Language Processing talk series, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A. & Watson, D. G. (2015, November). Influence of syntax on prosodic parsing. Language Processing Brown Bag series, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2015, October). Task effects on prosodic prominence. Visual Cognition and Human Performance talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2015, October). Task effects on prosodic prominence. Visual Cognition and Human Performance Brown Bag series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. & Watson, D. G. (2014, February). Top-down processing of intonational boundaries. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A. & Watson, D. G. (2014, February). Top-down processing of intonational boundaries. Cognitive Brown Bag series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
-Buxó-Lugo, A. & Watson, D. G. (2012, September). The effects of intonational phrase boundaries on prominence. Cognitive psychology talk series, Department of Psychology, University of Illinois at Urbana-Champaign.
+Buxó-Lugo, A. & Watson, D. G. (2012, September). The effects of intonational phrase boundaries on prominence. Cognitive Brown Bag series, Department of Psychology, University of Illinois at Urbana-Champaign.
 
