@@ -20,6 +20,8 @@ Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (in revision, Journal of Memory a
 
 ## Conference Presentations
 
+Buxó-Lugo, A. & Kurumada, C. (2018, November). Navigating variability in question-statement prosody. Poster presented at the 59th Annual Meeting of the Psychonomic Society, New Orleans, LA.
+
 Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, October). Accommodating variations in pragmatic interpretation of intonation contours. Poster presented at Experimental and Theoretical Advances in Prosody, Amherst, MA. [[pdf]]({{site.baseurl}}/assets/ETAP_Poster_QS_Adaptation.pdf)
 
 Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (2018, March). Hear no evil or speak no evil: Lengthening of phonological competitors. Talk presented at CUNY 2018: Conference on Human Sentence Processing, Davis, CA.
