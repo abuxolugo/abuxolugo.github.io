@@ -24,6 +24,8 @@ Buxó-Lugo, A. & Kurumada, C. (in prep). Encoding and decoding of meaning throug
 
 ## Conference Presentations
 
+Buxó-Lugo, A. & Kurumada, C. (2019, March). That was a question?: Accommodating variability in intonation interpretations. Talk presented at CUNY 2019: Conference on Human Sentence Processing, Boulder, CO.
+
 Buxó-Lugo, A. & Kurumada, C. (2018, November). Navigating variability in question-statement prosody. Poster presented at the 59th Annual Meeting of the Psychonomic Society, New Orleans, LA.
 
 Buxó-Lugo, A., Nourani, S., & Kurumada, C. (2018, October). Accommodating variations in pragmatic interpretation of intonation contours. Poster presented at Experimental and Theoretical Advances in Prosody, Amherst, MA. [[pdf]]({{site.baseurl}}/assets/ETAP_Poster_QS_Adaptation.pdf)
