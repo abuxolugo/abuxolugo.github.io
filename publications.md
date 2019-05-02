@@ -18,7 +18,7 @@ Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (in revision, Journal of Memory a
 
 Jacobs, C. L., Buxó-Lugo, A., & Watson, D. G. (in revision). Prosody indexes both competence and performance.
 
-Buxó-Lugo, A. & Kurumada, C. (submitted). Encoding and decoding of meaning through structured variability in speech prosody. [[OSF]](https://osf.io/kr7y6/)
+Buxó-Lugo, A. & Kurumada, C. (submitted). Encoding and decoding of meaning through structured variability in speech prosody. [[OSF]](https://psyarxiv.com/9y7xj/)
 
 Buxó-Lugo, A., Harrington Stack, C., Kurumada, C., & Watson, D. G. (in prep). Variability and adaptation in prosody-based syntactic comprehension.
 
