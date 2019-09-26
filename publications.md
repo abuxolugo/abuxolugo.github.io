@@ -20,6 +20,8 @@ Jacobs, C. L., Buxó-Lugo, A., & Watson, D. G. (in revision). Prosody indexes bo
 
 Buxó-Lugo, A. & Kurumada, C. (submitted). Encoding and decoding of meaning through structured variability in speech prosody. [[OSF]](https://psyarxiv.com/9y7xj/)
 
+Buxó-Lugo, A. & Kurumada, C. (submitted). Intonation adaptation is conditioned on syntactic constructions.
+
 Buxó-Lugo, A., Harrington Stack, C., Kurumada, C., & Watson, D. G. (in prep). Variability and adaptation in prosody-based syntactic comprehension.
 
 ## Conference Presentations
