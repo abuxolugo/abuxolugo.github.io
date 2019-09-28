@@ -14,7 +14,7 @@ Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approac
 
 ## Publications in Progress
 
-Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (in revision, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
+Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (accepted, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
 
 Jacobs, C. L., Buxó-Lugo, A., & Watson, D. G. (in revision). Prosody indexes both competence and performance.
 
