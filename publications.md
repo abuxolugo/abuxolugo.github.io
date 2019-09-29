@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (accepted, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
+
+Jacobs, C. L., Buxó-Lugo, A., & Watson, D. G. (accepted, WIREs Cognitive Science). Prosody indexes both competence and performance.
+
 Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323. DOI:[10.1080/0163853X.2016.1240742](https://doi.org/10.1080/0163853X.2016.1240742) [[preprint]]({{site.baseurl}}/assets/Minecraft_Preprint.pdf)
 
 Buxó-Lugo, A. & Watson, D. G. (2016).  Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13. DOI:[10.1016/j.jml.2016.03.001](https://doi.org/10.1016/j.jml.2016.03.001) [[preprint]]({{site.baseurl}}/assets/Syntax_and_Prosodic_Parsing_Preprint.pdf)
@@ -13,10 +17,6 @@ Watson, D. G., Buxó-Lugo, A., & Simmons, D. C. (2015). The effect of phonologic
 Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approaches to increase level of engagement in research and education. In S. Dikkers (Ed.), *TeacherCraft: Using Minecraft for Teaching and Learning* (pp. 139-151). Pittsburgh: ETC Press.
 
 ## Publications in Progress
-
-Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (accepted, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
-
-Jacobs, C. L., Buxó-Lugo, A., & Watson, D. G. (in revision). Prosody indexes both competence and performance.
 
 Buxó-Lugo, A. & Kurumada, C. (submitted). Encoding and decoding of meaning through structured variability in speech prosody. [[OSF]](https://psyarxiv.com/9y7xj/)
 
