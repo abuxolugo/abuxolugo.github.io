@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (accepted, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
+Buxó-Lugo, A., Jacobs, C. L., & Watson, D. G. (in press, Journal of Memory and Language). The world is not enough to explain lengthening of phonological competitors. [[OSF]](https://osf.io/ef5wu/)
 
-Watson, D. G., Jacobs, C. L., & Buxó-Lugo, A. (accepted, WIREs Cognitive Science). Prosody indexes both competence and performance.
+Watson, D. G., Jacobs, C. L., & Buxó-Lugo, A. (in press, WIREs Cognitive Science). Prosody indexes both competence and performance.
 
 Buxó-Lugo, A., Toscano, J. C., & Watson, D. G. (2018). Effects of participant engagement on prosodic prominence. *Discourse Processes, 55(3),* 305-323. DOI:[10.1080/0163853X.2016.1240742](https://doi.org/10.1080/0163853X.2016.1240742) [[preprint]]({{site.baseurl}}/assets/Minecraft_Preprint.pdf)
 
