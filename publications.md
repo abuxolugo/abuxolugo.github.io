@@ -21,6 +21,8 @@ Toscano, J. C., Buxó-Lugo, A., & Watson, D. G. (2015). Using game-based approac
 
 ## Publications in Progress
 
+Buxó-Lugo, A. & Slevc, L. R. (submitted). Integration of input and expectations influences syntactic parses, not just sentence interpretation.
+
 Buxó-Lugo, A. & Kurumada, C. (submitted). What changes when we tune into talker-specific prosody?
 
 
